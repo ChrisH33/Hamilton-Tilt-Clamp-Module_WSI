@@ -1,7 +1,7 @@
 // {{{ 2 "IncludeGuard" "PragmaOnce"
 #pragma once
 // }} ""
-#include "WSI\\Hamilton Tilt Clamp Module_WSI\\Hamilton Tilt Clamp Module_WSI.hsl"
+#include "Hamilton Tilt Clamp Module_WSI.hsl"
 #include "HSL_ForkJoin\\HSL_ForkJoin.hsl"
 #include "ASWStandard\\TraceLevel\\TraceLevel.hsl"
 /* {{ 2 "LibraryInsertLine" "" */ // }} ""
@@ -232,4 +232,4 @@ break;
 // {{{ 2 "LibraryNamespace" "End"
 } // library namespace
 // }} ""
-// $$author=ch33$$valid=0$$time=2025-01-06 16:08$$checksum=2eb9fbc9$$length=083$$
+// $$author=ch33$$valid=0$$time=2025-06-20 14:57$$checksum=9b0415d0$$length=083$$
