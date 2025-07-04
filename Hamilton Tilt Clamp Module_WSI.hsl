@@ -382,7 +382,7 @@
                                                 gHamilton_Tilt_Clamp_Module_strLibraryName);
 
       Hamilton_DriverTools::StatusTrace(Hamilton_DriverTools::ACTION::COMPLETE,
-                                        TRACE_LEVEL_NONE,
+                                        TRACE_LEVEL_DEBUG,
                                         "",
                                         strFunctionName,
                                         gHamilton_Tilt_Clamp_Module_intTraceLevel,
@@ -842,4 +842,4 @@
     } // _Tilt
   }
 #endif
-// $$author=ch33$$valid=0$$time=2024-12-03 15:07$$checksum=d939c926$$length=081$$
+// $$author=ch33$$valid=0$$time=2025-07-02 11:03$$checksum=49201f95$$length=081$$
